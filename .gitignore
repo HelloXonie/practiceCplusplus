@@ -1,0 +1,12 @@
+# Ignore compiled object files, binaries, and libraries
+*.o
+*.out
+*.a
+*.so
+*.exe
+
+# Ignore build directories
+build/
+bin/
+obj/
+dist/
